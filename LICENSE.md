@@ -1,4 +1,4 @@
-# 
+# Profissional AI Meeting Notes Summarizer modelos. Com escalabilidade de IA e visualização de dados — otimizado para máximo desempenho.
 
 
 
